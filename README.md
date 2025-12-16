@@ -1,12 +1,7 @@
 ## Olá! Eu sou o Lucas Gontijo 🙋
 
-<a href="https://www.linkedin.com/in/lucas-gontijo-da-cunha-a478812ab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:lucasgontijoo470@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gontijo-da-cunha-a478812ab/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgontijoo470@gmail.com)
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgontijoo&show_icons=true&theme=tokyonight)](https://github.com/lucasgontijoo/github-readme-stats)
 
